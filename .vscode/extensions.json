@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "antfu.vite",
+    "ms-vscode.live-server",
+    "bradlc.vscode-tailwindcss"
+  ]
+}
